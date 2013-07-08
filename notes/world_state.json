@@ -1,0 +1,38 @@
+{
+  "party": [
+    {
+      "id": "party0",
+      "name": "Adina",
+      "me": true,
+      "life": {
+        "alive": true,
+        "hp": 12
+      }
+      "inventory": [
+        {
+          "id": "party0inventory0",
+          "type": "weapon",
+          "name": "Great Sword of Slaying",
+          "weight": 2,
+          "attack": 3,
+          "speed": 8
+        }
+      ],
+      "equipped": {
+        "lefthand": "party0inventory0"
+      }
+    },
+    {
+      "id": "party1",
+      "name": "Ellis",
+      "life": {
+        "alive": true
+      }
+    }
+  ]
+  "map": {
+  }
+  "global": {
+    "date": "Jul 08 1013 12:00"
+  }
+}
